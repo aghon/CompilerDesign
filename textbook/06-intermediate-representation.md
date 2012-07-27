@@ -28,7 +28,7 @@ TOPICS:
 5.1.2.1 Static Typing
 5.1.2.2 Dynamic Typing
 5.1.2.3 Strong Typing
-5.1.2.4 Weak Typing
+.5.1.2.4 Weak Typing ##Weak Typing checks the types of the system at run-time.##
 5.3 Runtime Organization
 5.3.1 Storage
 5.3.1.1 Allocation
