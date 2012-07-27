@@ -46,7 +46,8 @@ It's a [bag](#what-is-a-bag).
 
 ### What is a stack?
 
-### What is a bag?
+
+A stack is a data structure that holds values for tokens, nonterminals and semantic symbols. ### What is a bag?
 An unordered, possibly infinite, collection of objects.
 
 Examples:
