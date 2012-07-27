@@ -46,8 +46,9 @@ It's a [bag](#what-is-a-bag).
 
 ### What is a stack?
 
+A stack is a data structure that holds values representing tokens, nonterminals, and semantic symbols from the grammar.
 
-A stack is a data structure that holds values for tokens, nonterminals and semantic symbols. ### What is a bag?
+### What is a bag?
 An unordered, possibly infinite, collection of objects.
 
 Examples:
@@ -119,3 +120,4 @@ Knowledge of some design patterns, version control, and testing is necessary to 
 ### What are design patterns?
 
 ### What is the visitor design pattern?
+ A visitor design pattern allows you to move each new operation in a suitable class.
