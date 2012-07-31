@@ -91,7 +91,7 @@ Algorithms and data structures
 ------------------------------
 Writing a compiler requires working with trees.
 
-- What is a tree?
+- What is a tree? A tree is an hierarchial arrangement of data
 - What is the difference between an inorder, preorder, and postorder traversal?
 
 ### What is code?
