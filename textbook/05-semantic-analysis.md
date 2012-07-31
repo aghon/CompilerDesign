@@ -62,4 +62,4 @@ Semantics describes the processes a computer follows when executing a program in
 
  Static semantics defines restrictions on the structure of valid texts that are hard or impossible to express in standard syntactic formalisms. ### What is runtime semantics?
 
-### What is type-checking?
+### What is type-checking? Type checking is the process of identifying errors in a program based on explicitly or implicitly stated type information.
