@@ -102,7 +102,7 @@ Give examples.
 
 ### What is an ambiguous grammar?
 
-### What is a LL(k) grammar?
+### What is a LL(k) grammar? An LL(k) grammar is when each step in a derivation can be determined from the already constructed parse tree and the k lookahead symbols. 
 
 ### What is a LR(k) grammar?
 
