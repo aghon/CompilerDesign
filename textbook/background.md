@@ -117,7 +117,7 @@ Knowledge of some design patterns, version control, and testing is necessary to 
 - What is the composite design pattern?
 - What is the strategy design pattern? A design pattern speeds up the development process by providing tested, proven development paradigms. 
 
-### What are design patterns?
+### What are design patterns? Design patterns are formal ways of documenting a solution to a design problem in a particular field of expertise 
 
 ### What is the visitor design pattern?
  A visitor design pattern allows you to move each new operation in a suitable class.
